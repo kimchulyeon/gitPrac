@@ -1,1 +1,3 @@
 # gitPrac
+
+Git conflict test
